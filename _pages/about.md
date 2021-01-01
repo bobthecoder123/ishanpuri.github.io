@@ -23,10 +23,4 @@ Hey there! 👋, my name's Ishan and I'm in 8th grade. I like to code, play vide
   * 💻 Coding
   * 🎾 Playing Tennis!
 
-## Projects
-
-My projects:
  
-* [Search Dictionaries](https://repl.it/@bobthecoder123/Search-Dictionaries#main.py)
-* [1st website](https://mywebsite.bobthecoder123.repl.co/)
-* [my repl.it account](https://repl.it/@bobthecoder123)
