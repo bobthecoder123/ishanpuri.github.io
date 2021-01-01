@@ -2,13 +2,8 @@
 main:
    
   - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /portfolio/  
   - title: "About Me"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
+  
