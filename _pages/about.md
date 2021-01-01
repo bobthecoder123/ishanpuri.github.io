@@ -1,4 +1,6 @@
- <html>
+redirect_from:
+  - /about/
+<html>
  <body>
  <h1  style="color: white;"> Ishan Puri </h1> 
   <body style="background-color: #36393f;">
