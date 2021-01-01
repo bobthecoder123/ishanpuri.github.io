@@ -22,7 +22,9 @@ Hey there! 👋, my name's Ishan and I'm in 8th grade. I like to code, play vide
   * 📚 Reading
   * 💻 Coding
   * 🎾 Playing Tennis!
-Projects
+
+## Projects
+
 My projects:
  
 * [Search Dictionaries](https://repl.it/@bobthecoder123/Search-Dictionaries#main.py)
