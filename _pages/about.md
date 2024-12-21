@@ -18,3 +18,5 @@ Throughout High School, I've had some notable accomplishments including:
 - 2x Scholastic Honorable Mention and Silver Key Recipient
 - Presidents Volunteer Service Award, Silver
 
+I've also participated in a variety of extracurricular activities that have had a significant impact upon me. You can find them above!
+
